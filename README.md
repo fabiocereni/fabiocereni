@@ -1,16 +1,46 @@
-## Hi there 👋
+## ⚡ Terminal Access: Fabio Cereni
 
-<!--
-**fabiocereni/fabiocereni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Computer Engineering Student** | **SUPSI - Dipartimento Tecnologie Innovative** | **Lugano, Switzerland 🇨🇭**
 
-Here are some ideas to get you started:
+Welcome to my space on GitHub. I'm a computer engineering student passionate about cybersecurity and software development, focused on creating secure and high-performance solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech
+
+#### 💻 Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,cs,dotnet,mysql,latex&theme=dark" alt="Linguaggi" />
+  </a>
+</p>
+
+#### 🚀 Frameworks & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,astro,git,linux,docker&theme=dark" alt="Frameworks e Tools" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" alt="JUnit5"/>
+</p>
+
+#### 🛡️ Cybersecurity & Networking
+*Technical skills and analysis tools:*
+* **IAM & Endpoint:** Active Directory (IAM), Microsoft Intune
+* **Security Tools:** Wireshark, Metasploit, Network Defense
+* **OS:** Linux
+
+---
+
+### 📊 Telemetria
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocereni&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+### 📫 Communication Protocols
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fabio-cereni)
+- 📧 [cerenifabio@icloud.com](mailto:cerenifabio@icloud.com)
