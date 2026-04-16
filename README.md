@@ -39,8 +39,6 @@ Welcome to my space on GitHub. I'm a computer engineering student passionate abo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocereni&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
-fabiocereni
-
 ---
 
 ### 📫 Communication Protocols
