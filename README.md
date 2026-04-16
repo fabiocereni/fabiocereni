@@ -35,7 +35,7 @@ Welcome to my space on GitHub. I'm a computer engineering student passionate abo
 ### 📊 Telemetria
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fabiocereni&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fabiocereni&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocereni&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
