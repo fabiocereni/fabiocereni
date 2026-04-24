@@ -6,7 +6,7 @@ Welcome to my space on GitHub. I'm a computer engineering student passionate abo
 
 ---
 
-### 🛠 Tech
+### 🛠 Tech Stack
 
 #### 💻 Languages
 <p align="left">
